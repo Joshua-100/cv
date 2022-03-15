@@ -1,0 +1,174 @@
+.top-container {
+  background-color: #f1f1f1;
+  padding-top: 100px;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.middle-container {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.skills {
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f1f1f1;
+}
+
+.profile {
+  margin-bottom: 50px;
+}
+
+h1 {
+  line-height: 1;
+  color: #43655A;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #839AA0;
+  font-size: 2.625rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  color: #839AA0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+#a-programmer {
+  font-weight: normal;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+#music-text {
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+}
+
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.android-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.video-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.music-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.web-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.android-description {
+  clear: left;
+}
+
+.video-description {
+  clear: right;
+}
+
+p {
+  color: #40514E;
+}
+
+hr {
+  color: grey;
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #839AA0;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #AAB5BD;
+  text-decoration: none;
+}
+
+.contact-me {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #839AA0;
+  padding: 30px;
+}
+
+.copyright-paragraph {
+  color: #EAF6F6;
+}
+
+.footer-link {
+  margin: 20px;
+  color: #43655A;
+}
+
+.phone-number {
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  color: white;
+  font-size: 1.2rem;
+}
